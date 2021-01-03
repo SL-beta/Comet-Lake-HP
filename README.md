@@ -17,4 +17,18 @@ EFI OpenCore 0.6.0
 | SMBIOS  | MacBookPro 16,2         |
 | BIOS  | 	F.31      |
 
+Что работает
+
+√ Intel UHD 620
+√ Brightness Control
+√ Backlight shortcuts
+√ USB
+√ Internal speaker
+√ Headphone output
+√ Internal Mic
+√ Touchpad
+– Intel Bluetooth
+√ Hibernation
+√ NVRAM
+
 Сам файл https://drive.google.com/file/d/1Ulw1Hs81i8FLAssP7s737YW6sOhGTl38/view?usp=sharing
